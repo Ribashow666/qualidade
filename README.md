@@ -9,7 +9,7 @@
 
 ## Descrição
 
-Projeto com intenção de testar uma aplicação com as tecnologias aprendidas em sala de aula!
+Esta atividade tem como objetivo aplicar o conceito de qualidade de software por meio do planejamento de testes unitários em uma aplicação Spring Boot, utilizando JUnit. Deverá focar em aspectos como estratégia de testes, cobertura de código, validação de requisitos e boas práticas de desenvolvimento para garantir a qualidade do software desenvolvido.
 
 ## Como Executar
 
